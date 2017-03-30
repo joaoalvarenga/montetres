@@ -1,0 +1,6 @@
+*.pdf
+*.juth
+*.iml
+.idea/
+out/
+bin/
